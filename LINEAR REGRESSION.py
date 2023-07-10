@@ -2,7 +2,6 @@ import pandas as pd
 import numpy as np
 from matplotlib import pyplot as plt
 
-
 np.random.seed(0)
 X = 2.5 * np.random.randn(5) + 1.5   
 res = 0.5 * np.random.randn(5)      
